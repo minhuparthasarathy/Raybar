@@ -20,7 +20,7 @@ Home, About Us, Menu, Add to Cart, Contact Us, Login, Sign Up, Prices, Reviews, 
 
 * **Minhu Parthasarathy** – Complete HTML and JS development
 * **Kameshwar** – CSS styling and design
-* **Pavatharani** – Forms and functionality
+* **Pavadharani** – Forms and functionality
 * **Komugi** – Images, alignment, and overall layout support
 
 ### 🎯 Purpose
